@@ -39,6 +39,7 @@ export default defineConfig({
     // https://github.com/antfu/vite-plugin-components
     Components({
       dts: true,
+      deep: true,
     }),
 
     WindiCSS(),

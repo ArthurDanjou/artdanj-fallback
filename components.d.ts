@@ -5,8 +5,14 @@ import '@vue/runtime-core'
 
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
+    ColorModeButton: typeof import('./src/components/ColorModeButton.vue')['default']
+    FlagIcon: typeof import('./src/components/icons/FlagIcon.vue')['default']
+    Footer: typeof import('./src/components/Footer.vue')['default']
+    LanguageButton: typeof import('./src/components/LanguageButton.vue')['default']
+    MoonIcon: typeof import('./src/components/icons/MoonIcon.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    SunIcon: typeof import('./src/components/icons/SunIcon.vue')['default']
   }
 }
 

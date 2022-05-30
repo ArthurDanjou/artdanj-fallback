@@ -1,10 +1,10 @@
 {
-  "maintenance": "⚠️ Services under maintenance ⚠️",
-  "maintenance_reason": "We'll be back soon. Please check back later.",
+  "maintenance": "Services under maintenance ⚠️",
+  "maintenance_reason": "⚠️ We'll be back soon. Please check back later.",
   "maintenance_description": "Sorry for the inconvenience but we're performing some maintenance at the moment. We'll be back online shortly! If you need to you can always contact us.",
   "team": "- The ArtDanjProduction Team",
 
-  "error": "❌ Service not found ❌",
-  "error_reason": "The service you are looking for does not exist.",
+  "error": "Service not found ❌",
+  "error_reason": "❌ The service you are looking for does not exist.",
   "error_description": "Please check the URL or try again later. If you continue to experience issues, please contact us."
 }

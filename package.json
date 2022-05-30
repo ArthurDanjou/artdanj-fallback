@@ -2,9 +2,8 @@
   "private": true,
   "scripts": {
     "build": "vite build",
-    "dev": "vite --port 3333 --open",
+    "dev": "vite --port 3355 --open --host",
     "lint": "eslint .",
-    "typecheck": "vue-tsc --noEmit",
     "preview": "vite preview --port 3355 --host"
   },
   "dependencies": {
