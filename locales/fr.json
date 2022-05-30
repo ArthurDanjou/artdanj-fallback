@@ -1,0 +1,10 @@
+{
+  "maintenance": "⚠️ Services en maintenance ⚠️",
+  "maintenance_reason": "Nous reviendrons bientôt. Veuillez revenir plus tard.",
+  "maintenance_description": "Désolé pour la gêne occasionnée, mais nous effectuons actuellement une maintenance. Nous serons bientôt de retour en ligne ! Si vous en avez besoin, vous pouvez toujours nous contacter.",
+  "team": "- L'équipe ArtDanjProduction",
+
+  "error": "❌ Service introuvable ❌",
+  "error_reason": "Le service que vous recherchez n'existe pas.",
+  "error_description": "Veuillez vérifier l'URL ou réessayer plus tard. Si vous continuez à rencontrer des problèmes, veuillez nous contacter."
+}
